@@ -26,7 +26,7 @@ const users = []; //inicjalizacja zmienne (zmiennej stałej) i stworzenie tablic
 /* NOTACJA WIELBŁĄDZIA (CAMEL CASE)*/
 let myName = "Tomasz"; //drugi i kolejne wyrazy w nazwie są pisane z wielkiej litery.
 "cos".toUpperCase(); //przykład notacji wielbłądziej w metodzie wbudowanej
-const variableName = "tutaj zawartość";
+// const variableName = "tutaj zawartość";
 
 
 /* KOMENTARZE */
